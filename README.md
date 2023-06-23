@@ -1,2 +1,2 @@
-# powerbi
+# PowerBI
 Projetos Desenvolvidos no PowerBI
